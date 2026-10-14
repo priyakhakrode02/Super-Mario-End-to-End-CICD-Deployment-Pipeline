@@ -16,8 +16,6 @@ An end-to-end CI/CD project that automates the build, testing, and deployment of
 - *Infrastructure as Code:* Terraform
 - *Configuration Management:* Ansible
 - *Orchestration:* Kubernetes
-- *Version Control:* Git, GitHub
 - *Cloud Platform:* AWS
 
-## Purpose
-The goal of this project is to automate the complete software delivery process and gain hands-on experience with DevOps tools, infrastructure automation, containerization, and CI/CD pipelines.
+
