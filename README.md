@@ -4,7 +4,6 @@ An end-to-end CI/CD project that automates the build, testing, and deployment of
 
 ## Features
 - Automated CI/CD pipeline using Jenkins.
-- Infrastructure provisioning using Terraform.
 - Configuration management using Ansible.
 - Containerization using Docker.
 - Application deployment using Kubernetes.
@@ -13,7 +12,6 @@ An end-to-end CI/CD project that automates the build, testing, and deployment of
 ## Tech Stack
 - *CI/CD:* Jenkins
 - *Containerization:* Docker
-- *Infrastructure as Code:* Terraform
 - *Configuration Management:* Ansible
 - *Orchestration:* Kubernetes
 - *Cloud Platform:* AWS
