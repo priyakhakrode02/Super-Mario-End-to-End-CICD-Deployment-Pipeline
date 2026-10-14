@@ -16,4 +16,4 @@ An end-to-end CI/CD project that automates the build, testing, and deployment of
 - *Orchestration:* Kubernetes
 - *Cloud Platform:* AWS
 
-![Super Mario Game Demo]()
+![Super Mario Game Demo](https://github.com/priyakhakrode02/Super-Mario-End-to-End-CICD-Deployment-Pipeline/blob/fb4fcdadca317b175a76678e8101eec06fb579ae/supermario.mp4)
